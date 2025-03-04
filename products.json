@@ -1,0 +1,59 @@
+{"products":[
+    {
+        "name": "Wireless Earbuds",
+        "price": "$59.99",
+        "description": "Noise-cancelling Bluetooth earbuds",
+        "categories":["Electronics", "Music"]
+
+    },
+    {
+        "name": "Classic Backpack",
+        "price": "$59.99",
+        "description": "Water-resistent backpack with three compartments",
+        "categories":["Education", "Travel"]
+
+    },
+    {
+        "name": "iPhone 15 Case",
+        "price": "$14.99",
+        "description": "Protective case for iPhone 15",
+        "categories":["Electronics", "Accesories"]
+
+    },
+    {
+        "name": "iPhone 15 Screen Protector",
+        "price": "$14.99",
+        "description": "Saphire screen protector for iPhone 15",
+        "categories":["Electronics", "Accesories"]
+
+    },
+    {
+        "name": "Portable Record Player",
+        "price": "$199.99",
+        "description": "Classic style record player with built-in speakers",
+        "categories": "Music"
+
+    },
+    {
+        "name": "Insulated Water Bottle",
+        "price": "$35.00",
+        "description": "Lightweight insulated water bottle made out of stainless steel",
+        "categories": ["Travel", "Sports"]
+
+    },
+    {
+        "name": "Electric Tooth Brush",
+        "price": "$39.99",
+        "description": "Electric tooth brush with replacable head powered by AA bateries",
+        "categories": ["Health", "Electronics"]
+
+    },
+    {
+        "name": "Robot Vacuum",
+        "price": "149.99",
+        "description": "Smart robot vacuum with companion app",
+        "categories": ["Home", "Electronics"]
+
+    }
+    ]
+}
