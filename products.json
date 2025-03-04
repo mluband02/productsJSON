@@ -1,4 +1,4 @@
-{"products":[
+[
     {
         "name": "Wireless Earbuds",
         "price": "$59.99",
@@ -55,5 +55,4 @@
         "categories": ["Home", "Electronics"]
 
     }
-    ]
-}
+]
