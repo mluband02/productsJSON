@@ -50,7 +50,7 @@
     },
     {
         "name": "Robot Vacuum",
-        "price": "149.99",
+        "price": "$149.99",
         "description": "Smart robot vacuum with companion app",
         "categories": ["Home", "Electronics"]
 
